@@ -31,10 +31,10 @@ Eighteen skills for professional software engineering, built from canonical lite
 
 ```bash
 # Add the marketplace
-/plugin marketplace add tswr/engineering-mastery-plugin
+claude plugin marketplace add tswr/engineering-mastery-plugin
 
 # Install the plugin
-/plugin install engineering-mastery@tswr/engineering-mastery-plugin
+claude plugin install engineering-mastery@engineering-mastery-marketplace
 ```
 
 ### From a local clone
@@ -42,8 +42,8 @@ Eighteen skills for professional software engineering, built from canonical lite
 ```bash
 # Clone and add as local marketplace
 git clone https://github.com/tswr/engineering-mastery-plugin.git
-/plugin marketplace add ./engineering-mastery-plugin
-/plugin install engineering-mastery@engineering-mastery-plugin
+claude plugin marketplace add ./engineering-mastery-plugin
+claude plugin install engineering-mastery@engineering-mastery-marketplace
 ```
 
 ### As standalone skills (without plugin wrapper)
