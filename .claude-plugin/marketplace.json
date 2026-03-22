@@ -1,0 +1,14 @@
+{
+  "name": "engineering-mastery-marketplace",
+  "description": "Eighteen skills for professional software engineering, built from canonical literature.",
+  "plugins": [
+    {
+      "name": "engineering-mastery",
+      "description": "Eighteen skills for professional software engineering: clean code, clean architecture, defensive programming, testing, performance, code review, security, observability, refactoring, API design, concurrency, documentation, AI-native codebase design, ML experimentation, A/B testing, mobile development, frontend development, and algorithms.",
+      "source": {
+        "source": "path",
+        "path": "."
+      }
+    }
+  ]
+}
