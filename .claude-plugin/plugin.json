@@ -1,5 +1,6 @@
 {
   "name": "engineering-mastery",
+  "version": "1.4.0",
   "description": "Eighteen skills for professional software engineering: clean code, clean architecture, defensive programming, testing, performance, code review, security, observability, refactoring, API design, concurrency, documentation, AI-native codebase design, ML experimentation, A/B testing, mobile development, frontend development, and algorithms. Language-agnostic principles with reference files for multiple languages and platforms.",
   "author": {
     "name": "tswr"
